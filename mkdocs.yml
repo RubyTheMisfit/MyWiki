@@ -1,0 +1,7 @@
+site_name: My Wiki
+theme:
+  name: material
+nav:
+  - Home: index.md
+    #- Guide: guide.md
+    #  - FAQ: faq.md
